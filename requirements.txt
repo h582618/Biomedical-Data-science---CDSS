@@ -1,0 +1,15 @@
+# DO NOT include azure-functions-worker in this file
+# The Python Worker is managed by Azure Functions platform
+# Manually managing azure-functions-worker may cause unexpected issues
+
+azure-functions
+pandas==1.2.2
+numpy==1.20.3
+scikit-learn==0.24.2
+matplotlib==3.4.2
+bruges==0.4.3
+pandas_profiling==3.1.0
+pickle5
+azure-storage-blob
+
+
