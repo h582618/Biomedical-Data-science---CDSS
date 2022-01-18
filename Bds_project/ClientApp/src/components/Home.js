@@ -20,7 +20,6 @@ care needs assessment</h1>
         <p>Check out </p>
         <ul>
             <li><a href='https://github.com/h582618/Biomedical-Data-science---CDSS'>Github Repository</a> for all the code</li>
-            <li><strong>About </strong></li>
             <li><strong>Train the model</strong></li>
             <li><strong>Use the model</strong></li>
         </ul>

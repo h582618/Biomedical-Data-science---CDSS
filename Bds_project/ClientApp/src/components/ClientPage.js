@@ -152,7 +152,7 @@ export function ClientPage({ }) {
                     Download Template
                 </button>
              </div>
-            <input style={{ marginTop: '5px' }}
+            <input  style={{ marginTop: '5px' }}
                 type="file"
                 accept=".csv,.xlsx,.xls"
                 onChange={handleFileUpload}

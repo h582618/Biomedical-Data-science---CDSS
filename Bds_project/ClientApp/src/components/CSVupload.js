@@ -98,15 +98,15 @@ export function CSVupload({ }) {
             />
 
 
-
-                
-                {content}
-            <div> 
+            <div style={{ marginTop: '5px' }}>
                 <button type="button" class="btn btn-primary" onClick={() => postDataColumns(data, column, setResponse, setLoading)}>
                     Train model
                 </button>
 
             </div>
+                
+                {content}
+          
         </div>
     );
 }

@@ -11,7 +11,7 @@ export class Model extends Component {
     render() {
         return (
             <div>
-                <h1 id="tabelLabel">Model</h1>
+                <h1 id="tabelLabel">Train Model</h1>
                 <p>Upload csv file to train the model</p>
                 <CSVupload />
             </div>
